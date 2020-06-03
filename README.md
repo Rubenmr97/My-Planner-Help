@@ -52,6 +52,7 @@ La calculadora permite realizar las operaciones básicas, además de contener la
 - Libras. 
 
 BASE DE DATOS: 
+
 Es una base de datos sencilla que permite al usuario almacenar datos, eventos, .... además de sus respectivas fechas y ubicaciones de manera sencilla. Constará de tres opciones que serán para guardar, consultar y eliminar. 
 En esta herramienta se observará el diseño de la siguiente manera: 
 
@@ -73,6 +74,7 @@ Si la opción elegida fuese la de mapas de metro o de autobuses, el usuario podr
 En ambos casos el usuario elegirá una opción de localización y posteriormente confirmara su elección, seguido se le llevará a una segunda ventana donde el usuario podrá buscar el mapa o volver atrás en caso de que se hubiera confundido al elegir. 
 
 Quiosco: 
+
 Esta función como se explicó anteriormente de forma breve será una herramienta que permita al usuario acceder a diferentes medios de información de las opciones ofrecidas. Habrá diferentes opciones como noticias (generalizadas), economía, cocina además de más opciones. 
 Al seleccionar la opción que deseemos accederemos a la respectiva ventana que se vería de la siguiente manera. 
 
